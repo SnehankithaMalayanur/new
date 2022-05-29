@@ -1,0 +1,92 @@
+item {
+  name: "Acne and Rosacea"
+  id: 1
+}
+item {
+  name: "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions"
+  id: 2
+}
+item {
+  name: "Atopic Dermatitis"
+  id: 3
+}
+item {
+name: "Bullous Disease"
+id: 4
+}
+item {
+name: "Cellulitis Impetigo and other Bacterial Infections"
+id: 5
+}
+item {
+name: "Eczema"
+id: 6
+}
+item {
+name: "Exanthems and Drug Eruptions"
+id: 7
+}
+item {
+name: "Hair Loss Photos Alopecia and other Hair Diseases"
+id: 8
+}
+item {
+name: "Herpes HPV and other STDs"
+id: 9
+}
+item {
+name: "Light Diseases and Disorders of Pigmentation"
+id: 10
+}
+item {
+name: "Lupus and other Connective Tissue diseases"
+id: 11
+}
+item {
+name: "Melanoma Skin Cancer Nevi and Moles"
+id: 12
+}
+item {
+name: "Nail Fungus and other Nail Disease"
+id: 13
+}
+item {
+name: "Poison Ivy Photos and other Contact Dermatitis"
+id: 14
+}
+item {
+name: "Psoriasis pictures Lichen Planus and related diseases"
+id: 15
+}
+item {
+name: "Scabies Lyme Disease and other Infestations and Bites"
+id: 16
+}
+item {
+name: "Seborrheic Keratoses and other Benign Tumors"
+id: 17
+}
+item {
+name: "Systemic Disease"
+id: 18
+}
+item {
+name: "Tinea Ringworm Candidiasis and other Fungal Infections"
+id: 19
+}
+item {
+name: "Urticaria Hives"
+id: 20
+}
+item {
+name: "Vascular Tumors"
+id: 21
+}
+item {
+name: "Vasculitis"
+id: 22
+}
+item {
+name: "Warts Molluscum and other Viral Infections"
+id: 23
+}
